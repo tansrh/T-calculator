@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+![image](https://github.com/Tanuj-code/T-calculator/assets/107149612/ec199fb4-a411-4469-b13b-4e4a130d138f)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
